@@ -4,9 +4,7 @@ This assignment was given to create a burger logger using MySQL, Node, Express, 
 
 ## Table of Contents:  
 * [Objectives](#Objectives)
-* [Process](#Process)
 * [Challenges](#Challenges)
-* [Summary](#Summary)
 * [Sites](#Sites)
 * [Screenshot](#Screenshot)
 
@@ -19,21 +17,17 @@ After they have eaten it, it then moves over to the "Consumed!" box so they know
 The burgers are created, saved, and updated in MySQL.  
 ```
 
-## Process  
- 
-
 ## Challenges  
-
-
-## Summary  
-
+I did this assignment over and over and still ran into the same heroku app deployment issues, even with a tutor and a fellow junior developer.
 
 ## Sites  
 
-* [Link to repository on GitHub]
+* [Link to repository on GitHub](https://github.com/killerkyle/mvcburger)
 
 * [Link to deployed Heroku Website]
 
 ## Screenshot  
 
-![screenshot]  
+![process gif](public/assets/img/Hnet-image.gif)
+
+![process gif](public/assets/img/Hnet-image-2.gif)
