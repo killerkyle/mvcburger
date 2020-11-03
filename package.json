@@ -10,11 +10,14 @@
     },
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "git+https://github.com/killerkyle/mvcburger"
     },
     "author": "",
     "license": "ISC",
-    "homepage": "",
+    "bugs": {
+        "url": "https://github.com/killerkyle/mvcburger/issues"
+    },
+    "homepage": "https://github.com/killerkyle/mvcburger#readme",
     "dependencies": {
         "body-parser": "^1.19.0",
         "express": "^4.17.1",
